@@ -1,4 +1,4 @@
-Project is done; no rocket science used hence everything is self-explanatory.
+Project is done; no rocket science used hence everything is self-explanatory. (From 6yrs old+)
 
 Will do more of these :-)
 
