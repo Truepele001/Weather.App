@@ -1,4 +1,4 @@
-Used the weather API for live weather data feed.(free btw)
+I Used the weather API for live weather data feed.(free btw)
 
 Project is done; no rocket science used hence everything is self-explanatory. (Reach out if something is not clear)
 
