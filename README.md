@@ -1,6 +1,6 @@
 Used the weather API for live weather data feed.(free btw)
 
-Project is done; no rocket science used hence everything is self-explanatory. (From 6yrs old+)
+Project is done; no rocket science used hence everything is self-explanatory. (Reach out if something is not clear)
 
 Will do more of these :-)
 
